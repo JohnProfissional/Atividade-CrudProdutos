@@ -51,7 +51,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/idValor"
         android:layout_marginStart="100dp"
-        android:layout_marginTop="45dp"
+        android:layout_marginTop="55dp"
         android:layout_marginEnd="100dp"
         android:hint="Cadastrar" />
 </RelativeLayout>
